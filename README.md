@@ -1,0 +1,7 @@
+# Breast-Cancer-Prediction
+This is a big data module project and report
+In the age of technology, massive amounts of data are generated as much as 2.5 quintillion bytes daily. This enormous amount of data and technology has helped industries small and big to identify trends and insights with the help of analytics that helps in enhancing performance and decision making.
+One of the industries has taken sound advantage of big data in the healthcare sector. Big data collected from patients, intelligent devices, etc., have helped the healthcare sector make better strategic decisions, enhance patient experience, and identify trends and even cure for life-threatening diseases like cancer.
+One of the most common types of cancer that have taken the lives of many is breast cancer. Breast cancer can be reduced if identified earlier, thus predicting it can also help save a patient’s life. The coursework highlights the need for big data in business and decision making and its use case in the healthcare sector. 
+Big data issues have also been disused with the solution. Furthermore, in the coursework, a breast cancer dataset is collected and then preprocessed and transformed to make predictions and analyses with the help of big data technology and analytics methodologies. 
+Two machine learning algorithms are used and compared based on the evaluation metrics to identify which model performs better for the breast cancer prediction dataset.
